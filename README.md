@@ -1,1 +1,1 @@
-Machine Learning ABCs Code - Part 1
+Machine Learning ABCs Code
